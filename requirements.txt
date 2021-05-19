@@ -1,0 +1,4 @@
+paho-mqtt==1.5.1
+PySide6==6.1.0
+shiboken6==6.1.0
+simplejson==3.17.2
